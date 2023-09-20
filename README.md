@@ -22,3 +22,11 @@ Since Apple is the widest, it is the most volatile.
 
 ### Scatter Plot
 ![download](https://github.com/rijeshshakya/StockStats/assets/69471901/561a6418-523e-45aa-8457-c437e603c0a6)
+
+### Training Data for Apple Stock (Regression Analysis)
+![download](https://github.com/rijeshshakya/StockStats/assets/69471901/ed43daed-aeb6-4935-a29c-e7507de2e3bf)
+
+
+### 2024 Prediction for Apple Stock using Regression Analysis
+![download](https://github.com/rijeshshakya/StockStats/assets/69471901/585fa3db-68e8-43de-8036-50a9d5ef72fe)
+
