@@ -1,7 +1,7 @@
 # StockStats
 
 ## Intro
-This project uses pandas, matplotlib, yfinance and numpy.
+This project uses pandas, matplotlib, seaborn, sckit-learn, yfinance and numpy.
 
 ## Plots
 ### Volume of Stock Traded
